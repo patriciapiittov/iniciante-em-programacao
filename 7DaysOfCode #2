@@ -1,0 +1,23 @@
+const nome = prompt ('Qual é o seu nome?');
+alert (`Olá ${nome}, seja bem vindo(a)!`);
+const idade = prompt ('Quantos anos você tem?');
+const linguagem = prompt('Qual linguagem de programação você está aprendendo?');
+
+alert (`Olá ${nome}, você tem ${idade} anos e já está aprendendo ${linguagem}. Parabéns!`);
+
+let ask = prompt (`Você gosta de estudar ${linguagem}? Responda com 1 para SIM ou 2 para NÃO`);
+
+let sim = '1'
+let nao = '2'
+
+while (ask !== '1' && ask !== '2'){ 
+ask = prompt(`Você digitou um valor inválido. Escolha ${sim} para SIM ou ${nao} para NÃO`);
+}
+
+
+if (ask === sim){
+    alert ('Muito bem! Continue estudando e você terá muito sucesso!');
+
+} else {
+    alert('Ahh que pena... Já tentou aprender outra linguagem?');
+}
