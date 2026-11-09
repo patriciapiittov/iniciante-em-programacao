@@ -2,9 +2,8 @@
 
 Exercícios que fiz enquanto aprendia JavaScript, do mais simples ao mais completo. Este repositório é o registro da minha evolução nos primeiros passos com a linguagem.
 
-## 📁 Estrutura
+## 📁 Exercícios
 
-### `desafios-alura/`
 Desafios do curso de lógica de programação da Alura.
 
 | Arquivo | O que pratica |
@@ -26,4 +25,4 @@ Os códigos usam `prompt()` e `alert()`, que funcionam no **navegador**:
 
 - Variáveis (`let`)
 - Template strings (`` `Olá ${nome}` ``)
-- Condicionais (`if`, `else if`, `else`) e operadores lógicos (`&&`, `||`)
+- Condicionais (`if`, `else if`, `else`) e operador lógico (`||`)
