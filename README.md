@@ -15,14 +15,6 @@ Desafios do curso de lógica de programação da Alura.
 | `desafio-03.js` | Primeira versão do **jogo do número secreto** |
 | `desafio-04.js` | Jogo do número secreto com validação de entrada (número entre 1 e 100) e `else if` |
 
-### `7-days-of-code/`
-Desafios do 7 Days of Code, da Alura.
-
-| Arquivo | O que pratica |
-|---|---|
-| `dia-01.js` | Diferença entre `==` e `===`, comparação de tipos e conversão com `Number()` |
-| `dia-02.js` | Interação com o usuário e laço `while` para validar a resposta |
-
 ## ▶️ Como executar
 
 Os códigos usam `prompt()` e `alert()`, que funcionam no **navegador**:
