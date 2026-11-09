@@ -24,8 +24,6 @@ Os códigos usam `prompt()` e `alert()`, que funcionam no **navegador**:
 
 ## 🧠 O que aprendi
 
-- Variáveis (`let` e `const`) e tipos de dados
+- Variáveis (`let`)
 - Template strings (`` `Olá ${nome}` ``)
 - Condicionais (`if`, `else if`, `else`) e operadores lógicos (`&&`, `||`)
-- Comparação de valor e de tipo (`==` e `===`)
-- Laço de repetição (`while`) para validar a entrada do usuário
